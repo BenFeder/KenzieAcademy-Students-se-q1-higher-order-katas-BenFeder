@@ -1,1 +1,9 @@
+main {
+  color: red;
+  font-weight: bold;
+  background-color: rgb(203, 203, 231);
+}
 
+details {
+  margin: 20px;
+}
